@@ -21,9 +21,9 @@ double. Then key up, state your callsign, your name, and your location.
 We will start with mobile, portable, and short-time stations. Please
 call net control now.
 
-*Take checkins. It is okay to be a bit informal here, and bounce it back
+**Take checkins. It is okay to be a bit informal here, and bounce it back
 to people as they check in. For example, it's okay to ask where someone
-is heading or what they're up to, as they check in*
+is heading or what they're up to, as they check in**
 
 At this time, any other station wishing to check in, please do so now.
 
