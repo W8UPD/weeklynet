@@ -9,8 +9,9 @@ This repeater system operates on 145.170MHz with a negative offset with a PL ton
 123Hz and also on 443.1125MHz with a PL tone of 131.8Hz.
 
 The University of Akron Amateur Radio Club holds the Informational and
-Experimenter's Net every Tuesday night at 9pm EST. This is an open net, everyone
-with a valid amateur radio license can and is encouraged to join the net.
+Experimenter's Net every Tuesday night at 9pm eastern time. This is an open net,
+everyone with a valid amateur radio license can and is encouraged to join the
+net.
 
 This is an informal but directed net, so we ask that all calls come through net
 control. Please do not break or interrupt unless you have urgent or priority
