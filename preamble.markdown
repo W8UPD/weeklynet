@@ -52,7 +52,8 @@ If a station asks to go direct with another, allow them to.**
 
 Thank you for joining the University of Akron Informational and Experimenter's 
 net. At this time I will close the net and return the repeater to casual amateur
-use. Please remember that this net meets weekly on Tuesday Night at 9PM EST.
+use. Please remember that this net meets weekly on Tuesday Night at 9PM eastern
+time.
 
 For this net we had a total of *(NUMBER OF CHECKINS)*. Thank you all for coming
 and have a good night. This is *(YOUR CALLSIGN)* closing the net at *(TIME)*.
